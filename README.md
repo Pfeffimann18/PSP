@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://thumbs2.imgbox.com/56/b4/bKmprS8i_t.png" width="900px">
 </p>
+
 ## 1. Vorbereitung
 Formatiere als ersten den internen Speicher und die Speicherkarte. Falls bereits Infinity 1.0 installiert ist, muss diese Verion deinstalliert werden.Kopiere dafür den [Chronoswitch](https://github.com/DaveeFTW/Chronoswitch)-Ordner nach `PSP\GAME\`. Kopiere danach den `UPDATE`-Ordner der offiziellen Firmware auch nach `PSP`. Kopiere anschließend den `PSP` und den `seplugins`-Ordner auf die PSP. Ersetze die Dateien, falls sie bereits vorhanden sind. Entferne die PSP nun vom PC. Öffne den Chronoswitch, drücke zwei mal `X` und folge dann den Schritten und installiere die offizielle PSP_Firmware. 
 
